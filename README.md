@@ -1,7 +1,7 @@
-# Air Quality Monitoring and Prediction System
+# Air Quality Anamaly Detection
 
 ## Overview
-This project provides a comprehensive system for monitoring, analyzing, and predicting air quality across major Indian cities. It combines real-time data monitoring with advanced machine learning models to forecast air quality trends and detect anomalies, delivering scheduled reports to stakeholders.
+This project provides a comprehensive system for Detection of anamaly in parameters(pm2.5,pm10)  across major Indian cities. It combines real-time data monitoring with advanced machine learning models to forecast air quality trends and detect anomalies, delivering scheduled reports to stakeholders.
 
 ## Features
 - **Multi-city Monitoring**: Track air quality across Delhi, Mumbai, Bengaluru, Hyderabad, and Kolkata
